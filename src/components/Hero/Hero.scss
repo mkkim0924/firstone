@@ -71,6 +71,11 @@
       border: 1px solid #0d7a5f;
       padding: 0.5em 1.38em 0.5em;
       font-weight: 600;
+      &:hover {
+        border: 1px solid #055240;
+        background-color: #055240;
+        color: white;
+      }
     }
     .task-template-tags {
       display: -webkit-box;

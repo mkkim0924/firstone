@@ -1,5 +1,6 @@
 import './index.scss';
 
+// import image1 from '../../assets/image1.png';
 const index = () => {
   return (
     <div className="value-prop-container">

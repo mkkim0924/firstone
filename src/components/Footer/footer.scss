@@ -32,9 +32,10 @@ footer {
       padding-right: 1em;
       .links {
         a {
-          color: white;
+          color: white !important;
           line-height: 1.65em;
           display: block;
+          text-decoration: none;
         }
       }
     }

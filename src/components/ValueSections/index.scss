@@ -16,6 +16,8 @@
   justify-content: flex-start;
   margin: 0 auto;
   margin-top: 60px;
+  background: #f9fafb;
+  width: 100%;
   figure {
     img {
       position: relative;
@@ -37,6 +39,7 @@
     -ms-flex-preferred-size: 50%;
     flex-basis: 50%;
     padding: 0 9%;
+
     h2 {
       font-weight: 800;
       font-size: 1.5rem;
